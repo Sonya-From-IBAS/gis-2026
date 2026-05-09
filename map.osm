@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2001816 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
- <bounds minlat="53.3012600" minlon="50.2324240" maxlat="53.3031240" maxlon="50.2339820"/>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (2860860 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.3012520" minlon="50.2323300" maxlat="53.3031560" maxlon="50.2337620"/>
  <node id="413335795" visible="true" version="1" changeset="1365711" timestamp="2009-05-31T08:07:06Z" user="AkMeR" uid="11049" lat="53.3019124" lon="50.2310966"/>
  <node id="413335802" visible="true" version="2" changeset="92008843" timestamp="2020-10-05T22:00:36Z" user="aodwonder" uid="3267434" lat="53.3002329" lon="50.2319803"/>
  <node id="413335804" visible="true" version="1" changeset="1365711" timestamp="2009-05-31T08:07:07Z" user="AkMeR" uid="11049" lat="53.3029170" lon="50.2331996"/>
@@ -133,18 +133,18 @@
  <node id="13659745698" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3012984" lon="50.2329409"/>
  <node id="13659745699" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3012712" lon="50.2330603"/>
  <node id="13659745700" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3013768" lon="50.2331276"/>
- <node id="13659746001" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3030472" lon="50.2333045"/>
- <node id="13659746002" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3029828" lon="50.2333261"/>
- <node id="13659746003" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3030004" lon="50.2334730"/>
- <node id="13659746004" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3030647" lon="50.2334515"/>
+ <node id="13659746001" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680" lat="53.3030494" lon="50.2333026"/>
+ <node id="13659746002" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680" lat="53.3029850" lon="50.2333242"/>
+ <node id="13659746003" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680" lat="53.3030026" lon="50.2334711"/>
+ <node id="13659746004" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680" lat="53.3030669" lon="50.2334496"/>
  <node id="13659746005" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3029254" lon="50.2333702"/>
  <node id="13659746006" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3028646" lon="50.2333910"/>
  <node id="13659746007" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3028826" lon="50.2335391"/>
  <node id="13659746008" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3029434" lon="50.2335184"/>
- <node id="13659746009" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3028569" lon="50.2335775"/>
- <node id="13659746010" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3027877" lon="50.2335996"/>
- <node id="13659746011" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3027996" lon="50.2337033"/>
- <node id="13659746012" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3028687" lon="50.2336812"/>
+ <node id="13659746009" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680" lat="53.3025823" lon="50.2336406"/>
+ <node id="13659746010" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680" lat="53.3024894" lon="50.2336397"/>
+ <node id="13659746011" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680" lat="53.3024890" lon="50.2337416"/>
+ <node id="13659746012" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680" lat="53.3025820" lon="50.2337425"/>
  <node id="13659746013" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3024521" lon="50.2333730"/>
  <node id="13659746014" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3023582" lon="50.2333801"/>
  <node id="13659746015" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680" lat="53.3023632" lon="50.2335687"/>
@@ -363,14 +363,14 @@
   <tag k="building" v="house"/>
   <tag k="building:levels" v="2"/>
  </way>
- <way id="1490340098" visible="true" version="1" changeset="180078362" timestamp="2026-03-18T20:36:46Z" user="LeonidPakhomov" uid="23954680">
+ <way id="1490340098" visible="true" version="2" changeset="180913935" timestamp="2026-04-05T19:58:18Z" user="LeonidPakhomov" uid="23954680">
   <nd ref="13659745697"/>
   <nd ref="13659745698"/>
   <nd ref="13659745699"/>
   <nd ref="13659745700"/>
   <nd ref="13659745697"/>
   <tag k="addr:city" v="Самара"/>
-  <tag k="addr:housenumber" v="15"/>
+  <tag k="addr:housenumber" v="14"/>
   <tag k="addr:place" v="​Сорокины Хутора пос."/>
   <tag k="addr:postcode" v="443072"/>
   <tag k="addr:street" v="1-я улица"/>
