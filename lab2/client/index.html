@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Геопортал</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app">
+      <div class="sidebar">
+        <div class="sidebar-header"></div>
+        <div class="layers">
+          <h3>Слои карты</h3>
+          <div class="layer-list">
+            <div class="layer-item">
+              <input type="checkbox" id="toggle-osm" checked />
+              <label for="toggle-osm">OpenStreetMap</label>
+            </div>
+            <div class="layer-item">
+              <input type="checkbox" id="toggle-buildings" checked />
+              <label for="toggle-buildings">Здания</label>
+            </div>
+            <div class="layer-item">
+              <input type="checkbox" id="toggle-roads" checked />
+              <label for="toggle-roads">Дороги</label>
+            </div>
+            <div class="layer-item">
+              <input type="checkbox" id="toggle-poi" checked />
+              <label for="toggle-poi">Точки интереса</label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="map-container">
+        <div id="map"></div>
+      </div>
+    </div>
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

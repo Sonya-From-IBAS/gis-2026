@@ -1,0 +1,16 @@
+<layer>
+  <name>poi</name>
+  <id>LayerInfoImpl-21592ebb:19e35a5d69d:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-273d5bdd:19e35a2d430:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-21592ebb:19e35a5d69d:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2026-05-17 11:19:59.214 UTC</dateCreated>
+</layer>
