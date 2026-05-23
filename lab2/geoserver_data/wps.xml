@@ -1,5 +1,5 @@
 <wps>
-  <id>WPSInfoImpl-273d5bdd:19e35a2d430:-7ff9</id>
+  <id>WPSInfoImpl--63a6cda3:19e4fdb3863:-7ff7</id>
   <enabled>true</enabled>
   <name>WPS</name>
   <versions>
@@ -12,8 +12,8 @@
   <verbose>false</verbose>
   <connectionTimeout>30.0</connectionTimeout>
   <resourceExpirationTimeout>300</resourceExpirationTimeout>
-  <maxSynchronousProcesses>24</maxSynchronousProcesses>
-  <maxAsynchronousProcesses>24</maxAsynchronousProcesses>
+  <maxSynchronousProcesses>48</maxSynchronousProcesses>
+  <maxAsynchronousProcesses>48</maxAsynchronousProcesses>
   <processGroups>
     <processGroup>
       <factoryClass>org.geoserver.wps.DeprecatedProcessFactory</factoryClass>
