@@ -37,12 +37,12 @@ Thumbs.db
 postgres_data/
 
 # GeoServer runtime / generated data
-geoserver_data/logs/
-geoserver_data/temp/
-geoserver_data/tmp/
-geoserver_data/monitoring/
-geoserver_data/legendsamples/
-geoserver_data/tomcat_pass.txt
-geoserver_data/gwc/*.bak
-geoserver_data/gwc/diskquota_page_store_hsql/*.data
-geoserver_data/gwc/diskquota_page_store_hsql/*.lck
+**/geoserver_data/logs/
+**/geoserver_data/temp/
+**/geoserver_data/tmp/
+**/geoserver_data/monitoring/
+**/geoserver_data/legendsamples/
+**/geoserver_data/tomcat_pass.txt
+**/geoserver_data/gwc/*.bak
+**/geoserver_data/gwc/diskquota_page_store_hsql/*.data
+**/geoserver_data/gwc/diskquota_page_store_hsql/*.lck
